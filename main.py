@@ -17,5 +17,5 @@ elif score >= 70 and score <= 199:
 elif score >= 200:
     bonus = 200.00
 
-print("Employee Name: ",employeeName)
-print("Employee Bonus: ",bonus)
+print("\n\nEmployee Name: ",employeeName)
+print("Employee Bonus: $",bonus)
